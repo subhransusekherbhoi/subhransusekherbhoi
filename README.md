@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhransu Sekher Bhoi</h1>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/66049375?s=120&v=4" alt="subhransusekherbhoi" /></p>
 <h3 align="center">A passionate developer from India</h3>
 
 
